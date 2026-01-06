@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,AMS (H264-1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1,Arirang Korea (H264-1080p)
@@ -149,3 +150,4 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1,Zoo Moo (H264-720p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
