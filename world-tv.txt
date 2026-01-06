@@ -1,8 +1,83 @@
-#EXTINF:-1,CGTN
+#EXTINF:-1,CCTV4 (H264-720p)
+https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+#EXTINF:-1,CGTN (H264-1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1,CGTN DOCUMENTARY
+#EXTINF:-1,CGTN DOCUMENTARY (H264-1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://english-livetx.cgtn.com/hls/yypdjlctzb/playlist.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1,CNA (H264-1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,DLTV1 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w2063513757_b3128000_slth.m3u8
+#EXTINF:-1,DLTV2 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w822495163_b3128000_slth.m3u8
+#EXTINF:-1,DLTV3 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-03-adaptive.smil/chunklist_w687086814_b3128000_slth.m3u8
+#EXTINF:-1,DLTV4 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-04-adaptive.smil/chunklist_w695161070_b3128000_slth.m3u8
+#EXTINF:-1,DLTV5 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin01-dltv-05-adaptive.smil/chunklist_w1618398668_b3128000_slth.m3u8
+#EXTINF:-1,DLTV6 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-06-adaptive.smil/chunklist_w526264648_b3128000_slth.m3u8
+#EXTINF:-1,DLTV7 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-07-adaptive.smil/chunklist_w2049856289_b3128000_slth.m3u8
+#EXTINF:-1,DLTV8 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-08-adaptive.smil/chunklist_w593944602_b3128000_slth.m3u8
+#EXTINF:-1,DLTV9 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-09-adaptive.smil/chunklist_w894182478_b3128000_slth.m3u8
+#EXTINF:-1,DLTV10 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin02-dltv-10-adaptive.smil/chunklist_w1336448150_b3128000_slth.m3u8
+#EXTINF:-1,DLTV11 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-11-adaptive.smil/chunklist_w409444839_b3128000_slth.m3u8
+#EXTINF:-1,DLTV12 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-12-adaptive.smil/chunklist_w362786055_b3128000_slth.m3u8
+#EXTINF:-1,DLTV13 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-13-adaptive.smil/chunklist_w436702955_b3128000_slth.m3u8
+#EXTINF:-1,DLTV14 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w52076050_b3128000_slth.m3u8
+#EXTINF:-1,DLTV15 (H264-1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w453399605_b3128000_slth.m3u8
+#EXTINF:-1,EWTN (H264-720p)
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1,FRANCE24 English (H264-1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1,GMM25 (H264-1080p)
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTINF:-1,NBT2 (H264-1080p)
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist.m3u8
+#EXTINF:-1,ONE31 (H264-1080p)
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTINF:-1,PRESS TV (H264-540p)
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1,RUSSIA TODAY (H264-1080p)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,TELESUR (H264-1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1,THAI PBS (H264-1080p)
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,TRACE SPORT STARS (H264-1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,TRACE URBAN (H264-1080p)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,TVRI WORLD (H264-1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1,WION (H264-1080p)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
