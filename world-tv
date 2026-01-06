@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:-1,88 Stereo (H264-720p)
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1,AMS (H264-1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1,Arirang Korea (H264-1080p)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1,Arirang World (H264-1080p)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Astro Awani (H264-720p)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1,BBC NEWS UK (H264-540p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1,BERITA SATU (H264-1080p)
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8
 #EXTINF:-1,Bloomberg Asia (H264-720p)
@@ -92,6 +98,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1,NBT2 (H264-1080p)
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist.m3u8
+#EXTINF:-1,NEWS1 (H264-1080p)
+http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1,ONE31 (H264-1080p)
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1,ORT1 (H264-720p)
@@ -103,6 +111,8 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1,Qatar (H264-1080p)
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1,RUSSIA 1 (H264-1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,RUSSIA TODAY (H264-1080p)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,SEA TV (H264-1080p)
@@ -117,6 +127,8 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist.m3u8
 https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 #EXTINF:-1,THAI PBS (H264-1080p)
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,TPTV (H264-1080p)
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1,TRACE SPORT STARS (H264-1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,TRACE URBAN (H264-1080p)
@@ -150,4 +162,5 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1,Zoo Moo (H264-720p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 
