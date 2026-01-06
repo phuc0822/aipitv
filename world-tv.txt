@@ -1,3 +1,11 @@
+#EXTINF:-1,AMS (H264-1080p)
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1,Arirang Korea (H264-1080p)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1,Arirang World (H264-1080p)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Bloomberg Asia (H264-720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1,CCTV4 (H264-720p)
 https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 #EXTINF:-1,CGTN (H264-1080p)
@@ -10,6 +18,12 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb/playlist.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1,CNA (H264-1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,CNBC Indonesia (H264-720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1,CNN (H264-720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,CNN Indonesia (H264-720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1,DLTV1 (H264-1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w2063513757_b3128000_slth.m3u8
@@ -59,16 +73,33 @@ https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w45339
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,FRANCE24 English (H264-1080p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1,FRESH NEWS (H264-720p)
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,GMM25 (H264-1080p)
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTINF:-1,i24 NEWS (H264-720p)
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:-1,K NEWS (H264-1080p)
+https://knews.livebox.co.in/youtubehls/live.m3u8
+#EXTINF:-1,Korea TV (H264-1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,NBT2 (H264-1080p)
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist.m3u8
 #EXTINF:-1,ONE31 (H264-1080p)
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTINF:-1,ORT1 (H264-720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Outdoor
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1,PRESS TV (H264-540p)
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1,RUSSIA TODAY (H264-1080p)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,SEA TV (H264-1080p)
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1,TAIWAN+ (H264-1080p)
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,TELESUR (H264-1080p)
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1,THAI PBS (H264-1080p)
@@ -77,7 +108,28 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,TRACE URBAN (H264-1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,TRT WORLD (H264-1080p)
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,TV9 Telugu (H264-720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/pub-iotv9telcmjhcs/live_720p/chunks.m3u8
+#EXTINF:-1,TVB Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,TVK (H264-720p)
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1,TVK2 (H264-720p)
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1,TVRI (H264-1080p)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1,TVRI WORLD (H264-1080p)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1,WION (H264-1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,Yahoo Finance (H264-1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Z BUSINESS (H264-720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1,Z NEWS (H264-720p)
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1,Zoo Moo (H264-720p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
