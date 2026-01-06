@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,88 Stereo (H264-720p)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,360 TV
+https://ensonhaber-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,AMS (H264-1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1,Arirang Korea (H264-1080p)
@@ -9,6 +11,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Astro Awani (H264-720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1,BABY SHARK
+https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,BBC NEWS UK (H264-540p)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1,BERITA SATU (H264-1080p)
@@ -78,6 +82,10 @@ https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w52076
 #EXTINF:-1,DLTV15 (H264-1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/chunklist_w453399605_b3128000_slth.m3u8
+#EXTINF:-1,DUBAI (H264-1080p)
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1,DW International (H264-1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,EWTN (H264-720p)
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,FRANCE24 English (H264-1080p)
@@ -90,6 +98,9 @@ https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1,K NEWS (H264-1080p)
 https://knews.livebox.co.in/youtubehls/live.m3u8
+#EXTINF:-1,KCNA (H264 576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+https://tv.nknews.org/tvdash/stream.mpd?nodelay=1
 #EXTINF:-1,Korea TV (H264-1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,MVLAO (H264-720p)
@@ -107,12 +118,22 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Outdoor (H264-1080p)
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Pet Club TV (H264-1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1,PRESS TV (H264-540p)
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1,Qatar (H264-1080p)
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1,Rai News 24 (H264-720p)
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1,Red Bull TV (H264-1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,RTP Internacional (H264-504p)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1,RUSSIA 1 (H264-1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,RUSSIA 24 (H264-576p)
+https://streaming.thestream.cyou/live/30.m3u8
 #EXTINF:-1,RUSSIA TODAY (H264-1080p)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,SEA TV (H264-1080p)
@@ -162,6 +183,7 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1,Zoo Moo (H264-720p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
