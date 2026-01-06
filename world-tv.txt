@@ -4,6 +4,8 @@ https://live.ams.com.kh/app/stream/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1,Arirang World (H264-1080p)
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,BERITA SATU (H264-1080p)
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8
 #EXTINF:-1,Bloomberg Asia (H264-720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1,CCTV4 (H264-720p)
@@ -83,6 +85,10 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1,Korea TV (H264-1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1,MVLAO (H264-720p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:-1,MWD (H264-720p)
+http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1,NBT2 (H264-1080p)
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist.m3u8
 #EXTINF:-1,ONE31 (H264-1080p)
@@ -90,10 +96,12 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 #EXTINF:-1,ORT1 (H264-720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,Outdoor
+#EXTINF:-1,Outdoor (H264-1080p)
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1,PRESS TV (H264-540p)
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1,Qatar (H264-1080p)
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1,RUSSIA TODAY (H264-1080p)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,SEA TV (H264-1080p)
@@ -102,6 +110,10 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,TELESUR (H264-1080p)
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1,THAI 5 (H264-1080p)
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist.m3u8
+#EXTINF:-1,THAI CHAIYO (H264-1080p)
+https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 #EXTINF:-1,THAI PBS (H264-1080p)
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1,TRACE SPORT STARS (H264-1080p)
@@ -119,12 +131,16 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist.m
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1,TVK2 (H264-720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1,TVM (H264-720p)
+http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1,TVRI (H264-1080p)
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1,TVRI WORLD (H264-1080p)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1,WION (H264-1080p)
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,WORKPOINT (H264-1080p)
+https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1,Yahoo Finance (H264-1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Z BUSINESS (H264-720p)
