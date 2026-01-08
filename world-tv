@@ -3,6 +3,10 @@
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1,360 TV (H264-1080p)
 https://ensonhaber-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,ACTION HOLLYWOOD MOVIES (H264-1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,AFN Music (H264-720p)
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1,Al Arabiya (H264-1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,AMS (H264-1080p)
@@ -29,6 +33,10 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/m
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1,Bloomberg Asia (H264-720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,BritBox Mysteries (H264-1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1,BTN (H264-1080p)
+https://btn.nowcdn.co.kr/btn/btnlive5m/playlist.m3u8
 #EXTINF:-1,CABLE CHANNEL (H264-1080p)
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1,CCTV4 (H264-720p)
@@ -120,6 +128,8 @@ https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 #EXTINF:-1,i24 NEWS (H264-720p)
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:-1,Jordan (H264-1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1,K NEWS (H264-1080p)
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1,KCNA (H264 576p)
@@ -137,6 +147,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 #EXTINF:-1,MVLAO (H264-720p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:-1,MVTV (H264-720p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 #EXTINF:-1,MWD (H264-720p)
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1,NBT2 (H264-1080p)
@@ -147,9 +159,9 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1,NEWS1 (H264-1080p)
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1,NHK WORLD (H264-720p)
+#EXTINF:-1,NHK WORLD (H264-1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1,ONE31 (H264-1080p)
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1,ORT1 (H264-720p)
@@ -171,6 +183,8 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1,Rai News 24 (H264-720p)
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1,RAMA CHANNEL (H264-1080p)
+https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1,Red Bull TV (H264-1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,RTA SPORT (H264-1080p)
@@ -209,12 +223,18 @@ https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1,TOP BARCA (H264-1080p)
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1,TOP NEWS (H264-720p)
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1,TPTV (H264-1080p)
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1,TRACE SPORT STARS (H264-1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,TRACE URBAN (H264-1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,TRANS 7 (H264-720p)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1,TRANS TV (H264-720p)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,TRT WORLD (H264-1080p)
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,TV5MONDE ASIE (H264-1080p)
@@ -236,6 +256,8 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1,TVRI WORLD (H264-1080p)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1,UGTV (H264-720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1,UTV (H264-1080p)
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
 #EXTINF:-1,WION (H264-1080p)
