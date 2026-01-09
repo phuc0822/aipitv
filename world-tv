@@ -3,12 +3,18 @@
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1,360 TV (H264-1080p)
 https://ensonhaber-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,ABC NEWS Australia (H264-720p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yF4iTyQQl3mLkbk6MQsN2A","kid":"O4nuTr6kQpahu6l6RHwO6w"}],"type":"temporary"}
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 #EXTINF:-1,ACTION HOLLYWOOD MOVIES (H264-1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1,AFN Music (H264-720p)
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:-1,Al Arabiya (H264-1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Al Jazeera (H264-1080p)
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1,AMS (H264-1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1,Arirang Korea (H264-1080p)
@@ -25,6 +31,10 @@ https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1,Bahrain Sports 2 (H264-720p)
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1,Bayon TV (H264-720p)
+http://stream.mekongtv.net:8989/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1,Bayon TV News (H264-720p)
+http://stream.mekongtv.net:8989/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1,BBC NEWS UK (H264-540p)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1,BERITA SATU (H264-1080p)
@@ -272,3 +282,4 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1,Zoo Moo (H264-720p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
