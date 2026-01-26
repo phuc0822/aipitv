@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+
 #EXTINF:-1 tvg-logo="https://iili.io/fPwZ3Vs.png",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
