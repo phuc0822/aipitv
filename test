@@ -1,0 +1,8 @@
+#EXTINF:-1 group-title="NoFree|🌏|Quốc tế (VN)" tvg-logo="https://dl.dropboxusercontent.com/s/k8h2qtfhmhwv0vz/hi",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+#EXTINF:-1 group-title="NoFree|🌏|Quốc tế (VN)" tvg-logo="https://dl.dropboxusercontent.com/s/7satm2sviojgrrl/hi",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
