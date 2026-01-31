@@ -1,14 +1,28 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://iili.io/fPwZ3Vs.png",CINEMAX
+#EXTINF:-1 tvg-logo="https://iili.io/fLDCDQI.png",BBC NEWS
+https://cdn.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/fLDrEAB.png",Bloomberg
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/fLDLZRj.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/fLDYy6x.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://iili.io/fPwZ3Vs.png",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/fPwiuF2.png",HBO
+#EXTINF:-1 tvg-logo="https://iili.io/fLDkGwu.png",FRANCE24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://iili.io/fPwiuF2.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/fPNebG1.png",Warner TV
+#EXTINF:-1 tvg-logo="https://iili.io/fLDOKNa.png",KBS WORLD
+https://cdn.skygo.mn/live/disk1/KBSWorld/HLSv3-FTA/KBSWorld.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/fLDWNi7.png",NHK WORLD
+https://cdn.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://iili.io/fPNebG1.png",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
