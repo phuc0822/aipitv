@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://iili.io/fLDCDQI.png",BBC NEWS
-https://cdn.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/fLDrEAB.png",Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/fLDLZRj.png",CNA
